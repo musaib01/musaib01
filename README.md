@@ -10,6 +10,6 @@
 
 🌐 Connect with me:
    - 📧 Email: musaibgillani01@gmail.com
-   - 💼 LinkedIn: https://www.linkedin.com/in/syed-musaib-hussain-4382041b6/
+   - 💼 LinkedIn: www.linkedin.com/in/musaibgilani1
 
 Let's build amazing Android apps together! Feel free to reach out for collaboration or just to chat about all things Android. 🤝
